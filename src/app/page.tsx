@@ -1,7 +1,6 @@
 import Hero from "@/ui/home/Hero";
 import Profile from "@/ui/home/Profile";
 import Projects from "@/ui/home/Projects";
-
 import { FloatingNav } from "@/ui/FloatingNavbar";
 
 export default function Home() {
